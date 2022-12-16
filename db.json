@@ -1,0 +1,70 @@
+{
+  "cocktails": [
+    {
+      "id": 101,
+      "drink_name": "The Old Fashioned",
+      "drink_category": "Alcoholic",
+      "glass_type": "Lowball glass",
+      "drink_url": "https://assets.epicurious.com/photos/5e41a6d175661800087cc87c/5:4/w_3923,h_3138,c_limit/OldFashioned_HERO_020520_619.jpg",
+      "ingredient1": "Simple syrup",
+      "ingredient2": " Bitters",
+      "ingredient3": "Water",
+      "ingredient4": "Bourbon"
+    },
+    {
+      "id": 102,
+      "drink_name": "The Negroni",
+      "drink_category": "Alcoholic",
+      "glass_type": "Zombie glass",
+      "drink_url": "https://www.giallozafferano.com/images/228-22809/negroni-cocktail_1200x800.jpg",
+      "ingredient1": "Campari",
+      "ingredient2": "Gin",
+      "ingredient3": "Sweet Vermouth",
+      "ingredient4": "Carbonated Water"
+    },
+    {
+      "id": 103,
+      "drink_name": "The Classic Daiquiri",
+      "drink_category": "Alcoholic",
+      "glass_type": "Collins glass",
+      "drink_url": "https://static.onecms.io/wp-content/uploads/sites/44/2020/05/20/8145474.jpg",
+      "ingredient1": " Light Rum",
+      "ingredient2": "Lime Juice",
+      "ingredient3": "White Sugar",
+      "ingredient4": "Triple Sec"
+    },
+    {
+      "id": 104,
+      "drink_name": "The Dry Martini",
+      "drink_category": "Alcoholic",
+      "glass_type": "Martini glass",
+      "drink_url": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/dirty-martini-3e964eb.jpg?quality=90&resize=500,454",
+      "ingredient1": " Gin",
+      "ingredient2": " Dry Vermouth",
+      "ingredient3": "Green Olive",
+      "ingredient4": " Ice"
+    },
+    {
+      "id": 105,
+      "drink_name": "The Perfect Margarita",
+      "drink_category": "Alcoholic",
+      "glass_type": "Margarita glass",
+      "drink_url": "https://i0.wp.com/smittenkitchen.com/wp-content/uploads/2021/02/the-perfect-margarita-scaled.jpg?fit=1200%2C800&ssl=1",
+      "ingredient1": "Tequila",
+      "ingredient2": " Triple Sec",
+      "ingredient3": "Lime",
+      "ingredient4": "Salt"
+    },
+    {
+      "id": 106,
+      "drink_name": "The Manhattan",
+      "drink_category": "Alcoholic",
+      "glass_type": "Snifter glass",
+      "drink_url": "https://www.jocooks.com/wp-content/uploads/2020/03/manhattan-drink-1.jpg",
+      "ingredient1": " Rye Whiskey",
+      "ingredient2": " Sweet Vermouth",
+      "ingredient3": "Angostura Bitters",
+      "ingredient4": " Maraschino Cherry"
+    }
+  ]
+}
